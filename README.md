@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá, eu sou o Isaac 👋
 
-<!--
-**Isaac0209/Isaac0209** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Desenvolvedor full-stack no Rio de Janeiro. Trabalho com plataformas web de alto volume, do backend em Laravel ao frontend em Vue, passando pela infraestrutura em Kubernetes que mantém tudo no ar.
 
-Here are some ideas to get you started:
+**O que eu faço**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend:** APIs e painéis administrativos em Laravel + Filament, com MySQL e Redis.
+- **Pagamentos:** integrações com gateways PIX (cash-in, cash-out, webhooks e conciliação).
+- **Frontend:** SPAs em Vue 3 e React, apps mobile em Flutter.
+- **Infra:** clusters Kubernetes com Traefik, replicação MySQL, Docker e nginx.
+- **Automação:** ferramentas em Node.js/Puppeteer e Python, e engenharia reversa de protocolos.
+
+**Stack**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,vue,react,flutter,python,java&perline=9" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mysql,redis,docker,kubernetes,nginx,linux,nodejs,git&perline=9" />
+</p>
